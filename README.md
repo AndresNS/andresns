@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresns&theme=github_dark" alt="AndresNS's GitHub Stats"/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrens&theme=dark)
