@@ -31,6 +31,8 @@ const me = new Developer(
   ["Programming", "Reading", "Video games", "TCG's"]
 );
 
+me.procrastinate();
+
 ```
 
 
