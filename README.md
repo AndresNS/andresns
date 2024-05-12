@@ -25,7 +25,7 @@ class Developer {
 
 const me = new Developer(
   "Andrés Navarro S.",
-  "12-11-1988",
+  "1988-11-12",
   "Software Developer",
   "Santiago, Chile",
   ["Programming", "Reading", "Video games", "TCG's"]
